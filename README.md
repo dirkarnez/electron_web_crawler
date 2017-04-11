@@ -13,7 +13,7 @@ Node.js installed on your system
 
 ```bash
 git clone https://github.com/vitaliiznak/electron_web_crawler.git
-cd fullstack-coding-challenge
+cd electron_web_crawler
 npm install
 npm start
 ```
