@@ -12,7 +12,7 @@ Node.js installed on your system
 
 
 ```bash
-git clone https://github.com/vitaliiznak/fullstack-coding-challenge.git
+git clone https://github.com/vitaliiznak/electron_web_crawler.git
 cd fullstack-coding-challenge
 npm install
 npm start
